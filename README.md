@@ -25,7 +25,7 @@ Then the name of the merchant States was replaced by the codes, to make them com
 The cardholder State was compared with the merchant State. When it was the same it was marked as true, and when different was marked as false.
 The results were then counted, and a donut chart was prepared.
 
-The chart shows that around 71% of the fraudulent transactions are performed with merchants located in the same State where the cardholder is located.
+The chart shows that around 71% of the 21fraudulent transactions are performed with merchants located in the same State where the cardholder is located.
 This finding can help to understand how that fraudulent transaction are more likely to happen in the cardholder State.
 A transaction in a different State cannot be flagged immediately as a fraud and other factors should be taken into consideration. For example, legit transactions perform by the cardholder in that other State.
 
