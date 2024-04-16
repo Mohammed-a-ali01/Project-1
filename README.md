@@ -49,7 +49,7 @@ The values of the bottom right show the States with higher number of fraudulent 
 
 ![](Images/daniel-5.png)
 
-**Analysis**: The chart shows that around 71% of the 21fraudulent transactions are performed with merchants located in the same State where the cardholder is located.
+**Analysis**: The chart shows that around 71% of the fraudulent transactions are performed with merchants located in the same State where the cardholder is located.
 
 - To take the analysis a bit further, the merchant State was identified for the top 3 cardholder States (New York, Pennsylvania, and Texas)
 
