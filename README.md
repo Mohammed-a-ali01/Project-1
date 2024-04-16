@@ -12,7 +12,7 @@
 
 ![](Images/daniel-1.png)
 
-**Analysis**: The map shows that the state with the highest number of fraudulent transactions is New York (175), followed by Pennsylvania (114) and Texas (113).
+**Analysis**: The map shows that the State with the highest number of fraudulent transactions is New York (175), followed by Pennsylvania (114) and Texas (113).
 
 - A chi-squared analysis was performed to confirm if the fraudulent transactions were not equally distributed among the states.
 
@@ -27,7 +27,7 @@
 
 ![](Images/daniel-3.png)
 
-**Analysis**: This map shows a different view of the problem. In absolute terms, Alaska and Connecticut may not have many fraudulent transactions, but they are more than 1% of their total number of transactions.
+**Analysis**: This map shows a different view of the problem. In absolute terms, Alaska and Connecticut may not have many fraudulent transactions, but they represent more than 1% of their total number of transactions.
 
 - Finally, a scatter plot was created, allowing us to see a combination of both maps' findings.
 ![](Images/daniel-4.png)
