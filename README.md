@@ -1,4 +1,4 @@
-# Project-1  - Ali 
+# Project-1  - Creditcard Fraud - Project Scope 
 
 ## Summary of Ideas
 Resources contain: fraud_data (the full dataset), clean_data (the cleaned verision), and lastly the kaggle_income (The median income per state).
