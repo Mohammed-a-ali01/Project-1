@@ -27,13 +27,12 @@
 
 ![](Images/daniel-3.png)
 
-**Analysis**: This map shows a different view of the problem. In absolute terms, Alaska and Connecticut may not have many fraudulent transactions, but they are more than 1% relative to their total number of transactions.
+**Analysis**: This map shows a different view of the problem. In absolute terms, Alaska and Connecticut may not have many fraudulent transactions, but they are more than 1% of their total number of transactions.
 
 - Finally, a scatter plot was created, allowing us to see the combination of the finding of both maps.
 ![](Images/daniel-4.png)
 
 The values of the bottom right show the States with higher number of fraudulent transactions (New York, Pennsylvania, and Texas) the Upper Left show us the states with a high percentage of fraudulent transaction relative to its total amount of transactions.
-
 
 **Conclusion**: The analysis of the Cardholder State can provide valuable input for the prediction of potential fraudulent transactions. The focus cannot be only in the States with high number of fraudulent transactions, but also in those with a higher percentage relative to the total amount of transactions.
 
