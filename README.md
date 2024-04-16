@@ -1,8 +1,13 @@
-# Project-1
-Our aim is to showcase our ability to clean and present data in a manner that is easily understandable. 
-We plan on cleaning the data using panda's and creating visualization's with mathplotlib or plotly.
-Additionally, we can add more information and mapping with api's and geoapify.
+# project_1
+Fraud Test Analysis
 
-Our 4 main questions revolve around day, time, state, city, age and category. 
-We plan on analyzing these categories to better explain any correaltion and/or insight.
-Additionally, we plan on incorporating mapping to show frequency of fraud per state.
+This data analysis session is a component of a group project centered on analyzing credit card fraud. The primary objective is to investigate the impact of fraudulent transactions on the purchase amounts.
+
+The data analysis process comprises three main stages:
+
+1. Data retrieval from the following link: https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction
+
+2. Data cleaning and extraction of fraudulent transaction amounts from the complete dataset.
+
+3. Conducting statistical analysis to identify the purchase amounts most significantly influenced by fraudulent transactions.
+
