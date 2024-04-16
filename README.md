@@ -5,7 +5,7 @@
 
 ### Fraudulent transaction cardholder State
 
-#### The first step was to identify the amount of fraudulent transactions by state.
+#### The first step was to identify the number of fraudulent transactions by state.
 
 - To achieve this, the database was filtered to only have the fraudulent transactions (2145).
 - Then, the transactions were grouped by the cardholder state.
@@ -13,13 +13,13 @@
 
 ![](Images/daniel-1.png)
 
-The map shows that the state with the highest number of fraudulent transactions is New York (175), followed by Pennsylvania (114) and Texas (113).
+* Analysis: The map shows that the state with the highest number of fraudulent transactions is New York (175), followed by Pennsylvania (114) and Texas (113).
 
 - A chi-squared analysis was performed to confirm if the fraudulent transactions were not equally distributed among the states.
 
 ![](Images/daniel-2.png)
 
-The p-value confirmed that the number of fraudulent transactions were higher in specific states and not distributed equally.
+* Analysis: The p-value confirmed that the number of fraudulent transactions were higher in specific states and not distributed equally.
 
 
 #### A second step in this analysis was to explore the proportion of fraudulent transactions relative to the total number of transactions per State.
@@ -30,8 +30,7 @@ The p-value confirmed that the number of fraudulent transactions were higher in 
 
 ![](Images/daniel-3.png)
 
-This map shows a different view of the problem.
-In absolute terms, Alaska and Connecticut may not have many fraudulent transactions, but they are more than 1% relative to their total number of transactions.
+* Analysis: This map shows a different view of the problem. In absolute terms, Alaska and Connecticut may not have many fraudulent transactions, but they are more than 1% relative to their total number of transactions.
 
 - Finally, a scatter plot was created, allowing us to see the combination of the finding of both maps.
 ![](Images/daniel-4.png)
@@ -39,7 +38,7 @@ In absolute terms, Alaska and Connecticut may not have many fraudulent transacti
 The values of the bottom right show the States with higher number of fraudulent transactions (New York, Pennsylvania, and Texas) the Upper Left show us the states with a high percentage of fraudulent transaction relative to its total amount of transactions.
 
 
-- Conclusion: The analysis of the Cardholder State can provide valuable input for the prediction of potential fraudulent transactions. The focus cannot be only in the States with high number of fraudulent transactions, but also in those with a higher percentage relative to the total amount of transactions.
+* Conclusion: The analysis of the Cardholder State can provide valuable input for the prediction of potential fraudulent transactions. The focus cannot be only in the States with high number of fraudulent transactions, but also in those with a higher percentage relative to the total amount of transactions.
 
 
 ### Fraudulent transaction merchant State
@@ -54,12 +53,12 @@ The values of the bottom right show the States with higher number of fraudulent 
 
 ![](Images/daniel-5.png)
 
-The chart shows that around 71% of the 21fraudulent transactions are performed with merchants located in the same State where the cardholder is located.
-
-- Conclusion: This finding can help to understand how that fraudulent transactions are more likely to happen in the cardholder's State.
+* Analysis: The chart shows that around 71% of the 21fraudulent transactions are performed with merchants located in the same State where the cardholder is located.
 
 - To take the analysis a bit further, the merchant State was identified for the top 3 cardholder States (New York, Pennsylvania, and Texas)
 
 ![](Images/daniel-6.png)
 
-- Conclusion: The bar chart confirms how most of the merchants where the fraudulent transactions happened, were located either in these three States or in States next to them, such as Connecticut, West Virginia, New Jersey, Oklahoma, Ontario, and Ohio.
+* Analysis: The bar chart confirms how most of the merchants where the fraudulent transactions happened, were located either in these three States or in States next to them, such as Connecticut, West Virginia, New Jersey, Oklahoma, Ontario, and Ohio.
+
+* Conclusion: The findings can help in the prediction of fraudulent transactions on how they are more likely to happen within the cardholder's state or the nearby States.
