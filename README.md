@@ -1,5 +1,8 @@
 # Project-1  - Ali 
 
+## Summary of Content 
+merged.ipynb will be our analysis on what's next, comparing median income against the number of fraud. (NOT COMPLETE, extra step).
+
 ## Summary of Ideas
 Resources contain: fraud_data (the full dataset), clean_data (the cleaned verision), and lastly the kaggle_income (The median income per state).
 
