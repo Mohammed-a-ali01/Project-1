@@ -72,7 +72,7 @@ Examine and analyze if different variables such as date, time, cardholder and me
 
 ## How to Run
 - Download the repository.
-- Create a folder called "Resources" within the repo folder "Project-1-main"
+- Create a folder called "Resources" within the repo folder "Project-1-main".
 - Download the resources from the google drive https://drive.google.com/drive/folders/1SHJT23DdEPBBs0kaS0cqE71lcLufb2ha?usp=drive_link.
 - Save the csv files into the "Resources" folder.
 
@@ -92,5 +92,5 @@ Examine and analyze if different variables such as date, time, cardholder and me
 - Olamide Usman: Category Analysis
 
 
-## Credits Data set:
+## Credits Data Set:
 - Kaggle: Kelvin Kelue: https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction/data
