@@ -23,7 +23,7 @@ Examine and analyze if different variables such as date, time, cardholder and me
 - Shape: 555,719 rows and 22 columns
 - Column examples: 'merchant', 'category', 'amt', 'state', 'dob', 'merch_lat', 'merch_long', 'is_fraud', 'Date','Time'.
 
-### Data Cleaning/preparation:
+### Data Cleaning/Preparation:
 - Using our file "cleaningcode.ipynb" we prepared a clean csv file for the analysis.
 - Dropped column 'unix_time' (wrong data not matching)
 - Split column 'trans_date_trans_time'
