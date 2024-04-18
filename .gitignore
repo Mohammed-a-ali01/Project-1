@@ -1,2 +1,5 @@
 api_key.py
 .DS_Store
+*.pyc
+clean_data.csv
+fraud_test.csv
