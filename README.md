@@ -56,7 +56,7 @@ Examine and analyze if different variables such as date, time, cardholder and me
 - The percentage of purchase amount count of total transactions decreases when the purchase amount increases especially greater than $400.
 - In contrast to total transactions, the percentage of purchase amount count of fraudulent transactions increases with the the purchase amount increases especially at $300-400 and greater than $700.
 
-### Carholder's Age:
+### Age:
 (see Notebook: 'Creditcard_age.ipynb')
 - The average age of credit card fraud victims, shows a left-skewed distribution which suggests that there are relatively few instances of older individuals being victims of credit card fraud, with most victims being younger.
 - However, the frequency in transactions is more frequent in elderly fraud victims, suggesting that they are more likely targets.
